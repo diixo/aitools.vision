@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Muli:300,400,700,800&display=swap');
 
+h6 {
+	font-family: "Muli", sans-serif;
+}
+
 h3 i.fas, h5.modal-title i.fas, .card-header i.fas {
 	color: #555;
 	margin-left: 5px;
