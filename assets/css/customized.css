@@ -53,11 +53,6 @@
 
 .blue-button {
 	display: inline-block;
-	width: auto;
-	height: 45px;
-	padding-left: 25px;
-	padding-right: 25px;
-	border-radius: 5px;
 	background-color: #2497be;
 	color: #fff;
 	font-family: "Muli", sans-serif;
@@ -68,12 +63,6 @@
 	background-color: #47aacb;
 	text-decoration: none;
 	color: #fff;
-}
-
-.blue-button.btn {
-	width: 100%;
-	padding-top: 10px;
-	font-size: 1.1em;
 }
 
 @media (max-width: 767px) {
